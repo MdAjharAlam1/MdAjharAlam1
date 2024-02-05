@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Ajhar Alam</h1>
-<h3 align="center">A passionate Algorithm Developer from Mumbai</h3>
+<h3 align="center">A passionate Algorithm Developer</h3>
 <h4 align="center">Energetic and detail-focused algorithm developer intern
 with a strong command of Python and adept problem-
 solving skills. <br> Proven ability in solving various problems
@@ -19,12 +19,9 @@ complexity analysis.</h4>
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UdRF9yPL3nMDPy2lC3R2SUhIslrwUKVX/view">Resume/CV</a>
 
 - ⚡ Fun fact **I think I'm very funny 😄..**
-# 💫 About Me:
-Hey there,  I'm Md Ajhar Alam, a passionate individual with a Bachelor of Arts  degree and a flair for fullstack web development. 🚀<br><br> I honed my coding skills through a comprehensive course at Masai School's<br>Prepleaf, where I immersed myself in the world of web development. <br><br>Having translated my education into tangible skills, I have successfully crafted<br>a few projects that Im truly proud of  💻Each project has been a journey of<br>learning and growth, reinforcing my love for coding.🚀<br><br>In addition to my academic and project pursuits, !'m a firm believer in lifelong learning. Youll often find me exploring and diving into various online<br>courses, staying ahead Lo the curve in this ever- -evolving tech landscape.🎓<br><br>Let's connect and chat about all things tech, development, and the exciting<br>world of continuous learning  🌟 #WebDeveloper #ContinuousLearner<br>#CodingEnthusiast
-
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdajharalam018/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@codewithAjhar0251) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdajharalam018/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@codewithAjhar0251) 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
