@@ -14,14 +14,19 @@ complexity analysis.</h4>
 
 - 💬 Ask me about **Data Structure and Algorithm.**
 
-- 📫 How to reach me **amitsingh75184@gmail.com**
+- 📫 How to reach me **mdajharalam68@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UdRF9yPL3nMDPy2lC3R2SUhIslrwUKVX/view">Resume/CV</a>
 
 - ⚡ Fun fact **I think I'm very funny 😄..**
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdajharalam018/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@codewithAjhar0251) 
+<p align="left">
+<a href="https://linkedin.com/in/mdajharalam018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdajharalam018" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codewithAjhar0251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="indian research hacker" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mdajharalam68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amitsingh75" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mdajharalam786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amitsingh75" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
