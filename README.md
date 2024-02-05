@@ -10,7 +10,7 @@ complexity analysis.</h4>
 
 - 🌱 I’m currently learning **DSA, Python, Django, HTML, CSS, JavaScript**
 
-- 👨‍💻 All of my projects are available at <a href="https://amit-singh-coding.github.io/amit-singh-portfolio.github.io/#home">Personal Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://mdajharalam-portfolio.netlify.app/">Personal Portfolio</a>
 
 - 💬 Ask me about **Data Structure and Algorithm.**
 
