@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Amit Singh</h1>
+
 # 💫 About Me:
 Hey there,  I'm Md Ajhar Alam, a passionate individual with a Bachelor of Arts  degree and a flair for fullstack web development. 🚀<br><br> I honed my coding skills through a comprehensive course at Masai School's<br>Prepleaf, where I immersed myself in the world of web development. <br><br>Having translated my education into tangible skills, I have successfully crafted<br>a few projects that Im truly proud of  💻Each project has been a journey of<br>learning and growth, reinforcing my love for coding.🚀<br><br>In addition to my academic and project pursuits, !'m a firm believer in lifelong learning. Youll often find me exploring and diving into various online<br>courses, staying ahead Lo the curve in this ever- -evolving tech landscape.🎓<br><br>Let's connect and chat about all things tech, development, and the exciting<br>world of continuous learning  🌟 #WebDeveloper #ContinuousLearner<br>#CodingEnthusiast
 
