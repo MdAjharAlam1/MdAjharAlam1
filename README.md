@@ -6,9 +6,7 @@ solving skills. <br> Proven ability in solving various problems
 using fundamental data structures basic and advance
 algorithms, <br> demonstrating a solid understanding of
 complexity analysis.</h4>
-<img align="right" width="400" src="https://programminginsider.com/wp-content/uploads/2023/10/techies.gif" alt="coding img">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-singh-coding&label=Profile%20views&color=0e75b6&style=flat" alt="Md Ajhar Alam" /> </p>
+<img align="right" width="400" src="https://camo.githubusercontent.com/ea4824240587d8d0d7fea6a17cca6eccc531abb1f5329d6971b07595c96e80fa/68747470733a2f2f70726f6772616d6d696e67696e73696465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f31302f746563686965732e676966" alt="coding img">
 
 - 🌱 I’m currently learning **DSA, Python, Django, HTML, CSS, JavaScript**
 
