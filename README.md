@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Ajhar Alam</h1>
-<h3 align="center">A passionate Algorithm Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <h4 align="center">Energetic and detail-focused algorithm developer intern
 with a strong command of Python and adept problem-
 solving skills. <br> Proven ability in solving various problems
@@ -8,7 +8,7 @@ algorithms, <br> demonstrating a solid understanding of
 complexity analysis.</h4>
 <img align="right" width="400" src="https://camo.githubusercontent.com/ea4824240587d8d0d7fea6a17cca6eccc531abb1f5329d6971b07595c96e80fa/68747470733a2f2f70726f6772616d6d696e67696e73696465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f31302f746563686965732e676966" alt="coding img">
 
-- 🌱 I’m currently learning **DSA, Python, Django, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **DSA, Python, Django, HTML, CSS, Django Rest Framework JavaScript**
 
 - 👨‍💻 All of my projects are available at <a href="https://mdajharalam-portfolio.netlify.app/">Personal Portfolio</a>
 
