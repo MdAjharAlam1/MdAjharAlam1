@@ -10,7 +10,7 @@ complexity analysis.</h4>
 
 - 🌱 I’m currently learning **DSA, Python, Django, HTML, CSS, Django Rest Framework JavaScript**
 
-- 👨‍💻 All of my projects are available at <a href="https://mdajharalam-portfolio.netlify.app/">Personal Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://mdajharalam.vercel.app/">Personal Portfolio</a>
 
 - 💬 Ask me about **Data Structure and Algorithm.**
 
