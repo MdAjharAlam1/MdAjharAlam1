@@ -8,7 +8,7 @@ algorithms, <br> demonstrating a solid understanding of
 complexity analysis.</h4>
 <img align="right" width="400" src="https://camo.githubusercontent.com/ea4824240587d8d0d7fea6a17cca6eccc531abb1f5329d6971b07595c96e80fa/68747470733a2f2f70726f6772616d6d696e67696e73696465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f31302f746563686965732e676966" alt="coding img">
 
-- 🌱 I’m currently learning **DSA, Python, Django, HTML, CSS, Django Rest Framework JavaScript**
+- 🌱 I’m currently learning ** MVC Architecture, Docker, bullmq, rabbitmq, AWS, CI/CD, cloudflare, Prisma, SQL **
 
 - 👨‍💻 All of my projects are available at <a href="https://mdajharalam.vercel.app/">Personal Portfolio</a>
 
@@ -16,7 +16,7 @@ complexity analysis.</h4>
 
 - 📫 How to reach me **mdajharalam68@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Rhmq5l_ms_Lio7U1_4i1U4uMxM9OUvUX/view">Resume/CV</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1n253TAjauZs27KJFKcHEGawZ235tp9Su/view?usp=sharing">Resume/CV</a>
 
 - ⚡ Fun fact **I think I'm very funny 😄..**
 
